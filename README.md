@@ -1,3 +1,3 @@
 Erlang Programming Answer
 =========================
-An answer collection for <Erlang Programming>.
+An answer collection for &lt;Erlang Programming>.
